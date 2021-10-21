@@ -1,7 +1,7 @@
 # codecomment-vscode
 
-The main repository for the vscode extension of CodeComment.
+https://codecomment.ai
 
-Please use this repository to open issues.
+The repository for the CodeComment Vscode Extension. Please use this repository to open issues.
 
 Source code coming soon! Right now we're in a private beta.
